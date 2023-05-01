@@ -1,0 +1,28 @@
+/*form*/
+.submit-btn {
+    padding-top: 20px;
+    display: inline-block;
+}
+
+form.form-horizontal .webtestimonial-input-box {
+    border: 1px solid #000;
+    border-radius: 5px;
+    font-weight: 300;
+}
+form.form-horizontal .image-box input{
+    padding: 3px 5px;
+}
+form.form-horizontal .input_box {
+    margin: 5px 0;
+}
+form.form-horizontal label {
+    font-size: 15px;
+    padding: 0 5px;
+    font-weight: 400;
+}
+form.form-horizontal .submit-btn input.btn.btn-primary {
+    padding: 5px 0;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
